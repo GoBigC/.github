@@ -6,13 +6,13 @@ This organization is for BigC the programming language. Inspired by C and Java, 
 @lanphgphm (LP) - Farmer #2 
 
 ## Release plan 
-[] Language design 
-[] Grammar & Proof of unambiguity 
-[] Lexer & Parser 
-[] Syntax Analyzer 
-[] Semantic Analyzer 
-[] Code Generator 
-[] ???? tbd
+- [] Language design 
+- [] Grammar & Proof of unambiguity 
+- [] Lexer & Parser 
+- [] Syntax Analyzer 
+- [] Semantic Analyzer 
+- [] Code Generator 
+- [] ???? tbd
 
 ## License 
 Free (yippie)!
