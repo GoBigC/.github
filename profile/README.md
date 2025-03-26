@@ -7,9 +7,9 @@ This organization is for BigC the programming language. Inspired by C and Java, 
 - [@brokisd](https://github.com/BroKisD) (Khoa) - Farmer #3
 
 ## Release plan 
-- [ ] Language design 
-- [ ] Grammar & Proof of unambiguity 
-- [ ] Lexer & Parser 
+- [x] Language design 
+- [x] Grammar & Proof of unambiguity 
+- [x] Lexer & Parser 
 - [ ] Syntax Analyzer 
 - [ ] Semantic Analyzer 
 - [ ] Code Generator 
