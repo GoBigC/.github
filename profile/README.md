@@ -11,7 +11,8 @@ This organization is for BigC the programming language. Inspired by C and Java, 
 - [x] Grammar & Proof of unambiguity 
 - [x] Lexer & Parser 
 - [x] Syntax Analyzer 
-- [ ] Semantic Analyzer 
+- [x] Semantic Analyzer
+- [ ] Error Handler
 - [ ] Code Generator 
 - [ ] ???? tbd
 
