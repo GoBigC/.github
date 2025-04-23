@@ -13,8 +13,9 @@ This organization is for BigC the programming language. Inspired by C and Java, 
 - [x] Syntax Analyzer 
 - [x] Semantic Analyzer
 - [ ] Error Handler
+- [ ] Standard library 
 - [ ] Code Generator 
-- [ ] ???? tbd
+- [x] VSCode Language Support Plugin
 
 ## License 
 Free (yippie)!
